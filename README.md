@@ -76,4 +76,5 @@ You can see all menu items by clicking ALL button, and items in particular categ
 * When you log in, the system automaticaly set start working time.
 * Clock out button will set finish working time of the person currently logged in.
 * Manager can make staff clocked out via manage employees, by selecting staff and clicking Clock out button.
-* You can see a payment details for a day by clicking "Show payment" button on the left 
+* You can see a payment details for a day by clicking "Show payment" button on the left.
+* You can see all the payment details stored in a notepad.
